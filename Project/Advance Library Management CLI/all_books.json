@@ -18,5 +18,15 @@
         "quantity": 15,
         "bookAddedAt": "13-12-2024 12:59:42",
         "book_last_update_at": ""
+    },
+    {
+        "title": "book 3",
+        "author": "author 3",
+        "isbn": 42761,
+        "year": 2022,
+        "price": 200,
+        "quantity": 30,
+        "bookAddedAt": "13-12-2024 13:44:23",
+        "book_last_update_at": "13-12-2024 13:45:55"
     }
 ]
